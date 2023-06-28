@@ -3,6 +3,7 @@
     <head>
         <title>Dichotomy</title>
         <link rel="stylesheet" href="./ha.css">
+        <style></style>
     </head>
     <body>
         <header>
